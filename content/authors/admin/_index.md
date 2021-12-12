@@ -1,39 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jean-Louis Arcand
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The Graduate Institute, Geneva
+  url: https://www.graduateinstitute.ch/
+- name: FERDI, Clermont Ferrand
+  url: https://www.ferdi.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Development economics
+- Impact evaluation and applied microeconometrics
+- Nutrition and health
+- Econophysics
+- The empirical analysis of economic growth
+- The political economy of China
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Economics
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 1991
+  - course: MPhil in Economics
+    institution: University of Cambridge
+    year: 1986
+  - course: BA in Economics and Political Science, High Honors
+    institution: Swarthmore College
+    year: 1985
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,15 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=oHx-j9EAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/arcandjl
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,8 +75,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Born in Ebolowa and a Canadian citizen, Jean-Louis Arcand is Professor in the Department of International Economics at the Graduate Institute of International and Development Studies in Geneva, which he joined in 2008. From 2017 to 2020 he was department chair, from 2012 to 2016 he was the founding Director of the Center for Finance and Development and from 2009 to 2012 he was chair of Development Studies.  He is a Founding Fellow of the European Union Development Network (EUDN), a Senior Fellow at the Fondation pour les études et recherches en développement international (FERDI), and has been a visiting professor at several universities in Africa, Brazil, the Caribbean and China. He was assistant and then Associate Professor at the University of Montréal, and Professor at the Centre d'études et de recherches en développement International (CERDI). He consults, among others, for the World Bank, the FAO, UNCTAD, the UNDP, the WHO, the Gates Foundation and several national governments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
