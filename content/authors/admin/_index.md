@@ -21,11 +21,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Development economics
-- Impact evaluation and applied microeconometrics
+- Impact evaluation and microeconometrics
 - Nutrition and health
 - Econophysics
-- The empirical analysis of economic growth
-- The political economy of China
+- Economic growth
+- Political economy of China
 
 # Education to show in About widget
 education:
@@ -75,6 +75,6 @@ email: ""
 highlight_name: true
 ---
 
-Born in Ebolowa and a Canadian citizen, Jean-Louis Arcand is Professor in the Department of International Economics at the Graduate Institute of International and Development Studies in Geneva, which he joined in 2008. From 2017 to 2020 he was department chair, from 2012 to 2016 he was the founding Director of the Center for Finance and Development and from 2009 to 2012 he was chair of Development Studies.  He is a Founding Fellow of the European Union Development Network (EUDN), a Senior Fellow at the Fondation pour les études et recherches en développement international (FERDI), and has been a visiting professor at several universities in Africa, Brazil, the Caribbean and China. He was assistant and then Associate Professor at the University of Montréal, and Professor at the Centre d'études et de recherches en développement International (CERDI). He consults, among others, for the World Bank, the FAO, UNCTAD, the UNDP, the WHO, the Gates Foundation and several national governments.
+Born in Ebolowa and a Canadian citizen, I am Professor in the Department of International Economics at the Graduate Institute of International and Development Studies in Geneva, which I joined in 2008. From 2017 to 2020 I was department chair, from 2012 to 2016 I was the founding Director of the Center for Finance and Development and from 2009 to 2012 I was chair of Development Studies.  I am a Founding Fellow of the European Union Development Network (EUDN), a Senior Fellow at the Fondation pour les études et recherches en développement international (FERDI), and have been a visiting professor at several universities in Africa, Brazil, the Caribbean and China. I was assistant and then Associate Professor at the Université de Montréal, and Professeur des universités at the Centre d'études et de recherches en développement International (CERDI). I consult, among others, for the World Bank, the FAO, UNCTAD, the UNDP, the WHO, the Gates Foundation and several national governments.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
