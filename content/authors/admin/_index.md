@@ -48,11 +48,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:arcandjl@alum.mit.edu
+- icon: envelope
+  icon_pack: fas
+  link: mailto:jean-louis.arcand@graduateinstitute.ch
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=oHx-j9EAAAAJ
 - icon: github
   icon_pack: fab
@@ -60,7 +63,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
-- company_logo: wechat
+- icon: weixin
+  icon_pack: fab
   link: weixin://dl/chat?JL_Kangxi
 
 # Link to a PDF of your resume/CV.
