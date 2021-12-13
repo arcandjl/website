@@ -1,12 +1,13 @@
 ---
-title: Visualization
+title: Health, nutrition and economic development
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
+tags: ["IHEID MINT"]
 ---
 
-Learn how to visualize data with Plotly.
+Health, nutrition and economic development.
 
 <!--more-->
 

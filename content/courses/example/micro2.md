@@ -1,12 +1,13 @@
 ---
-title: Statistics
+title: The economics of information and uncertainty
 date: '2021-01-01'
 type: book
 weight: 40
 math: true
+tags: ["IHEID Economics"]
 ---
 
-Introduction to statistics for data science.
+Basic models of risk and asymmetric information.
 
 <!--more-->
 
