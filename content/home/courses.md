@@ -22,3 +22,9 @@ design:
   view: 3
   flip_alt_rows: false
 ---
+
+## FAQs
+
+{{< spoiler text="Are there prerequisites?" >}}
+It depends upon the course.  Courses designed for master's and PhD students in Economics are usually rather technical and require a solid background in basic mathematics and statistics.  On the other hand, I have never turned anyone away who wanted to sign up for one of my courses!
+{{< /spoiler >}}

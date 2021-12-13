@@ -1,13 +1,13 @@
 ---
-title: The economics of information and uncertainty
-date: '2021-01-01'
+title: The economics of uncertainty and information
+date: '2020-12-13'
 type: book
-weight: 40
+weight: 30
 math: true
 tags: ["IHEID Economics"]
 ---
 
-Basic models of risk and asymmetric information.
+Basic models of risk and asymmetric information, for Economics master's and PhD students.
 
 <!--more-->
 

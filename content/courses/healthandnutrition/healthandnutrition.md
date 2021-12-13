@@ -1,13 +1,13 @@
 ---
 title: Health, nutrition and economic development
-date: '2021-01-01'
+date: '2020-12-13'
 type: book
-weight: 30
+weight: 40
 highlight: true
 tags: ["IHEID MINT"]
 ---
 
-Health, nutrition and economic development.
+Health, nutrition and economic development, for an interdisciplinary audience.
 
 <!--more-->
 

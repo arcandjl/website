@@ -1,6 +1,6 @@
 ---
 title: Impact evaluation
-date: '2021-01-01'
+date: '2021-12-13'
 type: book
 weight: 20
 tags: ["IHEID Economics"]
