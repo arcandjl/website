@@ -12,11 +12,11 @@ content:
     - name: All Courses
       tag: '*'
     - name: IHEID Economics
-      tag: economics
+      tag: IHEID Economics
     - name: IHEID MINT
-      tag: mint
+      tag: IHEID MINT
     - name: Outside
-      tag: outside
+      tag: Outside
 design:
   columns: '1'
   view: 3
