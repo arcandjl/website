@@ -65,7 +65,7 @@ social:
   link: https://www.linkedin.com/
 - icon: weixin
   icon_pack: fab
-  link: JL_Kangxi
+  link: weixin://dl/chat?JL_Kangxi
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
