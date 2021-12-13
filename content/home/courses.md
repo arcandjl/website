@@ -11,10 +11,12 @@ content:
   filter_button:
     - name: All Courses
       tag: '*'
-    - name: Data Visualization
-      tag: Data Visualization
-    - name: Statistics
-      tag: Statistics
+    - name: IHEID Economics
+      tag: economics
+    - name: IHEID MINT
+      tag: mint
+    - name: Outside
+      tag: outside
 design:
   columns: '1'
   view: 3
