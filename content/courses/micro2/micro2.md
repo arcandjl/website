@@ -7,7 +7,7 @@ math: true
 tags: ["IHEID Economics"]
 ---
 
-Basic models of risk and asymmetric information, for Economics master's and PhD students. Previous cohorts of students have often joked that this is essentially a course in integration by parts.  They may have a point....
+Basic models of risk and asymmetric information, for Economics master's and PhD students. Previous cohorts of students have often joked that this is essentially a course in integration by parts ($\int uv'=uv-\int u'v$).  They may have a point....
 
 <!--more-->
 
