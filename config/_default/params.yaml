@@ -29,9 +29,13 @@ address:
   postcode: '1202'
   country: Switzerland
   country_code: CH
+map:
+  provider: 'mapbox'
+  api_key: ''
+  zoom: 15
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '46.22115'
+  longitude: '6.14365'
 directions: Enter Petal 1 of the Maison de la Paix and take the stairs or the elevator to office P1.6.66 on Level 6
 office_hours:
   - 'By appointment'
@@ -41,10 +45,10 @@ contact_links:
   #   icon_pack: fab
   #   name: DM Me
   #   link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase

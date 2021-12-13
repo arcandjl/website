@@ -66,7 +66,9 @@ social:
 - icon: weixin
   icon_pack: fab
   link: weixin://dl/chat?JL_Kangxi
-
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/41764233616
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
