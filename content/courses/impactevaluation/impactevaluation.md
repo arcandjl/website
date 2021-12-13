@@ -10,7 +10,7 @@ An impact evaluation course designed for Economics master's and PhD students.  A
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h45 hours per week, for 14 weeks
+{{< icon name="clock" pack="fas" >}} 1h45 per week, for 14 weeks; 2 problem sets, take-home midterm, take-home final.
 
 ## Learn
 

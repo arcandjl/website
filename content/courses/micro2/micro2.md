@@ -1,5 +1,5 @@
 ---
-title: The economics of uncertainty and information
+title: The economics of uncertainty and information (aka Micro II)
 date: '2020-12-13'
 type: book
 weight: 30
@@ -11,7 +11,7 @@ Basic models of risk and asymmetric information, for Economics master's and PhD 
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 1h45 per week, for 14 weeks; 2 problem sets, in-class midterm, in-class final.
 
 ## Learn
 
