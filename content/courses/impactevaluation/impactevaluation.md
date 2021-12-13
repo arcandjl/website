@@ -6,7 +6,7 @@ weight: 20
 tags: ["IHEID Economics"]
 ---
 
-An impact evaluation course designed for Economics master's and PhD students.  A lot of programming in R with an emphasis building intuition using Montecarlo simulation.
+An impact evaluation course designed for Economics master's and PhD students.  A lot of programming in {{< icon name="r-project" pack="fab" >}} with an emphasis on building intuition using Montecarlo simulation.
 
 <!--more-->
 
