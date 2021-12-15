@@ -33,6 +33,8 @@ content:
     tag: Current Students
   - name: Prospective Students
     tag: Prospective Students
+  - name: Letters
+    tag: Letters
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
