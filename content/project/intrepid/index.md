@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: intrepid
+summary: Interpreting policy announcements using machine learning.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Machine Learning
+date: "2021-12-14"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://www.intrepid-project.com/"
 
 image:
   caption: Photo by rawpixel on Unsplash
