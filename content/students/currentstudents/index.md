@@ -6,7 +6,7 @@ tags:
 date: "2021-12-14"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://www.intrepid-project.com/"
+# external_link: "http://www.intrepid-project.com/"
 
 image:
   caption: Photo by rawpixel on Unsplash
