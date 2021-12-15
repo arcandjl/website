@@ -6,11 +6,8 @@ title: Students
 subtitle:
 content:
   page_type: book
-  filter_default: 0
-
+  
   filter_button:
-    - name: All students
-      tag: '*'
     - name: Former students
       tag: Former students
     - name: Current students
