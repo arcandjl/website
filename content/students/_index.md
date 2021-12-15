@@ -1,5 +1,5 @@
 ---
-title: Students
+title: Courses
 type: page
 
 view: 2
