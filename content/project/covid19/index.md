@@ -1,6 +1,6 @@
 ---
 title: Covid-19
-summary: Work on the economic and health impacts of COVID-19.
+summary: Economic and health impacts of COVID-19.
 tags:
 - Development
 - Health
