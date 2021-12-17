@@ -3,7 +3,7 @@ title: Why I think the SDGs are bad
 subtitle: No one is against motherhood, but this stuff is often platitudinous, contradictory and a recipe for bungled policy.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: No one is against motherhood, but this stuff is often platitudinous, contradictory and a recipe for bungled policy.
 
 # Link this post with a project
 projects: []
