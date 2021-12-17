@@ -1,6 +1,6 @@
 ---
 title: Prospective Students
-summary: For people thinking about applying to the one of our programs in International Economics.
+summary: For people thinking about applying to  one of our programs in Development or International Economics.
 tags:
 - Prospective Students
 date: "2021-12-14"
