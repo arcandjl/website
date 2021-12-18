@@ -12,26 +12,14 @@ An impact evaluation course designed for Economics master's and PhD students.  A
 
 {{< icon name="clock" pack="fas" >}} 1h45 per week, for 14 weeks; 2 problem sets, take-home midterm, take-home final.
 
-## Learn
-
-{{< youtube rfscVS0vtbw >}}
-
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
-Lists
+{{< spoiler text="What are the five identification strategies in impact evaluation?" >}}
+- **IV**: Instrumental Variables
+- **RCT**: Randomized Controlled Trials
+- **RDD**: Regression Discontinuity Design
+- **DID**: Difference-in-Differences or Panel Data
+- **OLS/PSM**: Least squares or matching (on observables)
 
-- Lists are mutable - they can be changed
-- Slower than tuples
-- Syntax: `a_list = [1, 2.0, 'Hello world']`
-
-Tuples
-
-- Tuples are immutable - they can't be changed
-- Tuples are faster than lists 
-- Syntax: `a_tuple = (1, 2.0, 'Hello world')`
 {{< /spoiler >}}
 
-{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
-{{< /spoiler >}}
