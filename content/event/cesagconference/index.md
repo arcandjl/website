@@ -1,7 +1,7 @@
 ---
 title: La mise en oeuvre des agendas de développement à l'aune des enjeux actuels. L'évaluation d'impact au coeur de la décision
 
-event: Abidjan, Conférence CESAG sur l'évaluation d'impact
+event: Abidjan, Conférence régionale sur l'évaluation d'impact en Afrique francophone
 # event_url: https://example.org
 
 # location: Wowchemy HQ
@@ -12,9 +12,9 @@ event: Abidjan, Conférence CESAG sur l'évaluation d'impact
 #   postcode: '94305'
 #   country: United States
 
-summary: Il est très peu probable que les effets d'un programme ou d'un projet soit identiques pour tous. Des méthodes biens rôdées existent pour traiter de l'hétérogénéité inobservable. Du côté de l'estimation, pour le quasi-expérimental, l'estimation de l'effet marginal de traitement (MTE) par les variables instrumentales locales (LIV). Dans la collecte des données, pour les randomisations, le mécanisme Becker-Degroot-Marschak. L'intégration de l'évaluation dans la politique économique devrait être un processus d'apprentissage d'ordre bayésien.
+summary: Keynote address at the Francophone Africa impact evaluation conference in Abidjan.
 
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: Il est très peu probable que les effets d'un programme ou d'un projet soit identiques pour tous. Des méthodes biens rôdées existent pour traiter de l'hétérogénéité inobservable. Du côté de l'estimation, pour le quasi-expérimental, l'estimation de l'effet marginal de traitement (MTE) par les variables instrumentales locales (LIV). Dans la collecte des données, pour les randomisations, le mécanisme Becker-Degroot-Marschak. L'intégration de l'évaluation dans la politique économique devrait être un processus d'apprentissage d'ordre bayésien.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -57,14 +57,17 @@ url_slides: "slides_abidjan_presentation.pdf"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - example
 ---
+
+[**Conference site**](https://clearfa.org/conference-regionale-sur-levaluation-dimpact-en-afrique-francophone/?fbclid=IwAR0YhSK3oPvtQBMyagAINtav2HM_bBiiWiLpLs7bVFd-nb0ZVllKkCKNlmY)
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
+<!--
 Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -72,3 +75,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+-->

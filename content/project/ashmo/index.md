@@ -1,6 +1,6 @@
 ---
 title: ashmo
-summary: Augmented Solow model for health.
+summary: Augmented Solow models for health.
 tags:
 - Health
 date: "2021-12-14"

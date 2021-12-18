@@ -14,7 +14,7 @@ event: Geneva, CCDP seminar
 
 summary: Lockdowns in OECD  countries have led to an additional 414,000 deaths in Africa. They have also increased infant mortality in Africa  by 8.2 percent.
 
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: Lockdowns in OECD  countries have led to an additional 414,000 deaths in Africa. They have also increased infant mortality in Africa  by 8.2 percent.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -62,9 +62,11 @@ url_slides: "slides_deathtransfer.pdf"
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Slides** button above to view the slides.
 {{% /callout %}}
 
+
+<!-- 
 Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -72,3 +74,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+-->
