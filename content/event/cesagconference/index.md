@@ -42,7 +42,7 @@ image:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "slides_abidjan_presentation"
+url_slides: "slides_abidjan_presentation.pdf"
 # url_video: ""
 
 # Markdown Slides (optional).
