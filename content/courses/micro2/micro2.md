@@ -1,5 +1,5 @@
 ---
-title: The economics of uncertainty and information (aka Micro II)
+title: The economics of uncertainty and information
 date: '2020-12-13'
 type: book
 weight: 30
