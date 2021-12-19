@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: United Health Futures
-subtitle:
+title: Posts
+subtitle: The earnest search for a mirage
 
 content:
   # Page type to display. E.g. post, talk, publication...
