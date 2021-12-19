@@ -9,7 +9,9 @@ authors:
 - Max-Olivier Hongler
 - Shekhar Hari Kumar
 - Daniele Rinaldo
-tags: Theory
+tags: 
+- Theory
+- Macro
 categories: []
 date: 2020-02-01
 lastmod: 2021-12-19T00:38:42+01:00

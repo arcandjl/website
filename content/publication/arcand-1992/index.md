@@ -1,13 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Arcand 1992"
+title: "Structural Adjustment and Organization of Agricultural Credit in Egypt"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors: 
+- Jean-Louis Arcand
+tags: Development macro
 categories: []
-date: 2021-12-19T00:38:57+01:00
+date: 1992-06-01
 lastmod: 2021-12-19T00:38:57+01:00
 featured: false
 draft: false
@@ -26,4 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2021-12-18T23:38:38.981441Z'
+publication_types:
+- '3'
+abstract: ''
+publication: ""
+links:
+- name: URL
+  url: https://ideas.repec.org/p/mtl/montec/9228.html
 ---

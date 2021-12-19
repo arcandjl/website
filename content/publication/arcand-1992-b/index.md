@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Growth and Social Custom
+title: "Growth and Social Custom"
 subtitle: ''
 summary: ''
 authors:
-- J.L. Arcand
+- Jean-Louis Arcand
 tags:
-- economic growth ; customs
+- Development macro
 categories: []
-date: '1992-01-01'
+date: 1992-01-01
 lastmod: 2021-12-19T00:38:58+01:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-12-18T23:38:57.571914Z'
 publication_types:
-- '4'
+- '3'
 abstract: No abstract is available for this item.
 publication: ''
 links:
