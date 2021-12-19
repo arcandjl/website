@@ -5,7 +5,7 @@ title: "Who Would Benefit from Simplifying the Tax Code? Frank Knight and Gustav
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Grégoire Rota-Graziosi
 - Kim Bloomquist
 tags: Theory

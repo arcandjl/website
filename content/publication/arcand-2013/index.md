@@ -5,7 +5,7 @@ title: "Finance and Economic Development in a Model with Credit Rationing"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Enrico Berkes
 - Ugo Panizza
 tags: Development macro

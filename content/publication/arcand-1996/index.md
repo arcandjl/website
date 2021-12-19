@@ -5,7 +5,7 @@ title: "Land-Ownership, Working Capital and Agricultural Output: Egypt 1913-58"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 tags: Development macro
 categories: []
 date: 1996-03-01

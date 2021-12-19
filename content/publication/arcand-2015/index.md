@@ -5,7 +5,7 @@ title: "The Impact of Land Mines on Child Health: Evidence from Angola"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Aude-Sophie Rodella-Boitreaud
 - Matthias Rieger
 tags: Development micro

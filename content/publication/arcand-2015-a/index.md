@@ -5,7 +5,7 @@ title: "Too much finance?"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Enrico Berkes
 - Ugo Panizza
 tags: Development macro

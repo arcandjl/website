@@ -5,7 +5,7 @@ title: "Aid, peasants and social exclusion"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Natascha Wagner
 tags: Development micro
 categories: []

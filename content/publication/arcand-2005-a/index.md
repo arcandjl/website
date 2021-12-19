@@ -5,7 +5,7 @@ title: "Rendement de l'éducation et choix des instruments. Application sur donn
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Béatrice d’Hombres
 - Paul Gyselinck
 tags: Development micro

@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors:
 - Thuy Nguyen
-- Jean-Louis Arcand
+- admin
 tags: Trade
 categories: []
 date: 2009-06-01

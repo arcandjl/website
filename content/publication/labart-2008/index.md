@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors:
 - Kelly Labart
-- Jean-Louis Arcand
+- admin
 tags: Development micro
 categories: []
 date: 2008-06-01

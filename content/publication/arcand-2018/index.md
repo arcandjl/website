@@ -5,7 +5,7 @@ title: "Credit Markets with Imperfect Information: Risk-Aversion Versus Pessimis
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Stuart McDonald
 tags: Theory
 categories: []

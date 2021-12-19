@@ -5,7 +5,7 @@ title: "The Empirics of Economic Growth in a Cross Section of Countries: Do Erro
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Marcel Dagenais
 tags: []
 categories: []

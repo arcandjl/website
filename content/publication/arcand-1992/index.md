@@ -5,7 +5,7 @@ title: "Structural Adjustment and Organization of Agricultural Credit in Egypt"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 tags: Development macro
 categories: []
 date: 1992-06-01

@@ -5,7 +5,7 @@ title: "Moral hazard and Marshallian inefficiency: Evidence from Tunisia"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Chunrong Ai
 - François Ethier
 tags: Development micro

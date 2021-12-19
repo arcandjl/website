@@ -5,7 +5,7 @@ title: "Does Community Driven Development Work? Evidence from Senegal"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Léandre Bassole
 tags: Development micro
 categories: []

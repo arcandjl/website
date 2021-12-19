@@ -5,7 +5,7 @@ title: "Language in Economic Development: Is English Special and is Linguistic F
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - François Grin
 tags: Development macro
 categories: []

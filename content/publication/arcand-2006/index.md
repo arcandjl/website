@@ -5,7 +5,7 @@ title: "Testing for Separation in Agricultural Household Models and Unobservable
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Béatrice d'Hombres
 tags: Development micro
 categories: []

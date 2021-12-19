@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: 
 - Ugo Panizza
-- Jean-Louis Arcand
+- admin
 - Enrico Berkes
 tags: Development macro
 date: 2012-06-01

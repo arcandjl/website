@@ -5,7 +5,7 @@ title: "Growth and Social Custom"
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand
+- admin
 tags:
 - Development macro
 categories: []

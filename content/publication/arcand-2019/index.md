@@ -5,7 +5,7 @@ title: "Does Ethnic Diversity Decrease Economic Interactions? Evidence from Exch
 subtitle: ""
 summary: ""
 authors:
-- Jean‐Louis Arcand
+- admin
 - Dany Jaimovich
 tags: Development micro
 categories: []

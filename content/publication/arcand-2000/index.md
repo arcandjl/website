@@ -5,7 +5,7 @@ title: "How to Make a Tragedy: On the Alleged Effect of Ethnicity on Growth"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Patrick Guillaumont
 - Sylviane Guillaumont Jeanneney
 tags: Development macro

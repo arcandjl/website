@@ -5,7 +5,7 @@ title: Pessimism, Optimism and Credit Rationing
 subtitle: ''
 summary: ''
 authors:
-- Jean‐Louis Arcand
+- admin
 tags: Theory
 categories: []
 date: '2006-01-01'

@@ -5,7 +5,7 @@ title: "Increasing Risk: Dynamic Mean-Preserving Spreads"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Max-Olivier Hongler
 - Daniele Rinaldo
 

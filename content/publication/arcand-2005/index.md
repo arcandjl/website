@@ -5,7 +5,7 @@ title: "Tax Compliance and Rank Dependent Expected Utility"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Grégoire Graziosi
 tags: Theory
 categories: []

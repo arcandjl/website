@@ -5,7 +5,7 @@ title: "Teacher Training and HIV/AIDS Prevention in West Africa: Regression Disc
 subtitle: ""
 summary: ""
 authors:
-- Jean‐Louis Arcand
+- admin
 - Eric Djimeu Wouabe
 tags: 
 - Development micro

@@ -5,7 +5,7 @@ title: "Institutions, Mobilization and Rebellion in Post-Colonial Societies"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Jean-Pierre Tranchant
 tags: Development macro
 categories: []

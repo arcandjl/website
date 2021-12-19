@@ -5,7 +5,7 @@ title: "Deforestation and the Real Exchange Rate"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Patrick Guillaumont
 - Sylviane Guillaumont Jeanneney
 tags: Development macro

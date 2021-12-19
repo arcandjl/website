@@ -5,7 +5,7 @@ title: "The (Lack of) Impact of Impact: Why Impact Evaluations Seldom Lead to Ev
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 tags: Development micro
 categories: []
 date: 2014-06-01

@@ -5,7 +5,7 @@ title: "Is Adverse Selection Relevant? Spence-Mirlees Meets the Tunisian Peasant
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Mbolatiana de Montalembert Rambonilaza
 tags: Development micro
 categories: []

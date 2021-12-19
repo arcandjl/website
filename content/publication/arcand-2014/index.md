@@ -6,7 +6,7 @@ title: 'Commentaires sur « Développement financier et croissance économique :
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand
+- admin
 tags: Development macro
 categories: []
 date: '2014-01-01'

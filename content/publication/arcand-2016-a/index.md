@@ -5,7 +5,7 @@ title: "Growth, Performance and Poverty Reduction: What Impact of the Status?"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Eric Gabin Kilama
 tags: Growth
 categories: []

@@ -5,7 +5,7 @@ title: "Intergenerational Contracts, Remittances, and Growth"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Ghazi Boulila
 - Christian Tritten
 tags: Development macro

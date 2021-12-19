@@ -8,7 +8,7 @@ authors:
 - Jean Pierre Tranchant
 - Grégoire Rota-Graziosi
 - Léandre Bassole
-- Jean-Louis Arcand
+- admin
 tags: Development micro
 categories: []
 date: 2006-03-01

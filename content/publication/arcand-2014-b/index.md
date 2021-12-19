@@ -5,7 +5,7 @@ title: "Comments on 'Financial Development and Economic Growth: Known Knowns, Kn
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 tags: Development macro
 categories: []
 date: 2014-06-06

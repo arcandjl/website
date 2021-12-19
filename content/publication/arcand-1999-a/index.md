@@ -6,7 +6,7 @@ title: 'Class position and Economic Behavior in a Tunisian Village: Selective Se
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand
+- admin
 - Jonathan Conning
 - François Ethier
 tags:

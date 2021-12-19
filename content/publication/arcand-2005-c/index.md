@@ -5,7 +5,7 @@ title: "Errors in Variables and the Empirics of Economic Growth"
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Marcel Dagenais
 tags: Development macro
 categories: []

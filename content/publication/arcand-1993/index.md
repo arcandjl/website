@@ -5,7 +5,7 @@ title: "Disequilibrium Dynamics during the Great Depression"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Elise Brezis
 tags: Macro
 categories: []

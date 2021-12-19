@@ -5,7 +5,7 @@ title: Are Policy Reform and Growth in Africa Sustainable?
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand 
+- admin 
 - Patrick Guillaumont
 - Sylviane Guillaumont Jeanneney
 tags: Development macro

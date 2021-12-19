@@ -5,7 +5,7 @@ title: "Weak Governments and Trade Agreements"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Marcelo Olarreaga
 - Laura Zoratto
 tags: Trade

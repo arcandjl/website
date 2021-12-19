@@ -6,7 +6,7 @@ title: 'Braving the Waves: The Role of Time and Risk Preferences in Illegal Migr
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand
+- admin
 - Linguère Mously Mbaye
 tags: Development micro
 categories: []

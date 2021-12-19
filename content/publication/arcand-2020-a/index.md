@@ -5,7 +5,7 @@ title: "Can One Hear the Shape of a Target Zone?"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Max-Olivier Hongler
 - Shekhar Hari Kumar
 - Daniele Rinaldo

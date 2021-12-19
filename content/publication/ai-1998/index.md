@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Chunrong Ai
-- Jean-Louis Arcand
+- admin
 - François Éthier
 tags: Development micro
 categories: []

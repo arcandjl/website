@@ -5,7 +5,7 @@ title: "Maternal Height and the Sex Ratio"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Matthias Rieger
 tags: 
 - Development micro

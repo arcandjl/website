@@ -5,7 +5,7 @@ title: "L'(absence d') impact de l'impact : pourquoi les évaluations d'impact c
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 tags: Development micro
 categories: []
 date: 2013-09-01

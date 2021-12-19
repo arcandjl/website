@@ -5,7 +5,7 @@ title: "Supply Response and Marketing Board Policy : the Case of Egyptian Cotton
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 tags: Development macro
 categories: []
 date: 1992-01-01

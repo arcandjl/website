@@ -5,7 +5,7 @@ title: "Matching in Community-Based Organizations"
 subtitle: ""
 summary: ""
 authors:
-- Jean-Louis Arcand
+- admin
 - Marcel Fafchamps
 tags: Development micro
 categories: []

@@ -5,7 +5,7 @@ title: "Instrument Choice and the Returns to Education: New Evidence from Vietna
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Béatrice d'Hombres
 - Paul Gyselinck
 tags: Development micro

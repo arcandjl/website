@@ -5,7 +5,7 @@ title: "Explaining the Negative Coefficient Associated with Human Capital in Aug
 subtitle: ""
 summary: ""
 authors: 
-- Jean-Louis Arcand
+- admin
 - Béatrice d'Hombres
 tags: Development macro
 categories: []
