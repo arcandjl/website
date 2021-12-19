@@ -1,14 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Berkes 2015"
+title: "Too Much Finance or Statistical Illusion: A Comment"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors:
+- Enrico Berkes
+- Ugo Panizza
+- Jean-Louis Arcand
+tags: Development macro
 categories: []
-date: 2021-12-19T00:38:43+01:00
-lastmod: 2021-12-19T00:38:43+01:00
+date: 2015-06-02
+doi: 10.1007/s10887-015-9115-2
+lastmod: 2021-12-19T00:38:31+01:00
 featured: false
 draft: false
 
@@ -26,4 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2021-12-18T23:38:38.981441Z'
+publication_types:
+- '3'
+abstract: 'This paper examines whether there is a threshold above which financial depth no longer has a positive effect on economic growth. We use different empirical approaches to show that financial depth starts having a negative effect on output growth when credit to the private sector reaches 100% of GDP. Our results are consistent with the "vanishing effect" of financial depth and that they are not driven by endogeneity, output volatility, banking crises, low institutional quality, or by differences in bank regulation and supervision.'
+publication: "*IHEID Working Papers*"
+links:
+- name: URL
+  url: https://ideas.repec.org/p/gii/giihei/heidwp12-2015.html
 ---
