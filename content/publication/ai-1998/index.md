@@ -8,7 +8,7 @@ authors:
 - Chunrong Ai
 - Jean-Louis Arcand
 - François Éthier
-tags: [Development micro]
+tags: Development micro
 categories: []
 date: '1998-09-01'
 lastmod: 2021-12-19T00:38:39+01:00
