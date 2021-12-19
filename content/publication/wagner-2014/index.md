@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Wagner 2014"
+title: "HIV/AIDS sensitisation and peer mentoring: evidence from a randomised experiment in Senegal"
 subtitle: ""
 summary: ""
-authors: []
+authors: [Natascha Wagner and Jean-Louis Arcand and Cheikho Sakho and Pape A. Diallo]
 tags: []
 categories: []
 date: 2021-12-19T00:38:32+01:00
