@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Jean-Louis Arcand
-- ' Conning'
-- ' Ethier'
+- Jonathan Conning
+- François Ethier
 tags:
 - Household models; Selective separability; Class structure
 categories: []
@@ -33,10 +33,10 @@ image:
 projects: []
 publishDate: '2021-12-18T23:38:54.286899Z'
 publication_types:
-- '4'
+- '3'
 abstract: 'The purposes of this paper are twofold. First, we examine, using a unique
-  dataset collected in the Tunisian village of El Oulja, what might be termed &quot;all
-  or nothing&quot; separability (Benjamin, 1992) by testing, while controling for
+dataset collected in the Tunisian village of El Oulja, what might be termed "all
+  or nothing" separability (Benjamin, 1992) by testing, while controling for
   plot characteristics (Udry, 1996), the proposition that farm input use is independent
   of household characteristics. Second, we test for separability in the context of
   a model of class structure based on the seminal work of Eswaran and Kotwal (1986).
