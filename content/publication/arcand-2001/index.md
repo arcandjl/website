@@ -5,11 +5,12 @@ title: Are Policy Reform and Growth in Africa Sustainable?
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand Patrick Guillaumont
+- Jean-Louis Arcand 
+- Patrick Guillaumont
 - Sylviane Guillaumont Jeanneney
-tags: []
+tags: Development macro
 categories: []
-date: '2001-01-01'
+date: 2001-01-01
 lastmod: 2021-12-19T00:38:54+01:00
 featured: false
 draft: false
@@ -30,9 +31,8 @@ image:
 projects: []
 publishDate: '2021-12-18T23:38:53.726910Z'
 publication_types:
-- '4'
-abstract: 'This paper, relying on the results of several cross-sectionnal growth regressions,
-  examines the factors determining the sustainability of policy reforms and growth
+- '3'
+abstract: 'This paper, relying on the results of several cross-sectionnal growth regressions, examines the factors determining the sustainability of policy reforms and growth
   in Africa. Five structural factors are considered as determinants of policy: 1)
   ethno-linguistic fragmentation, which influences growth directly rather than through
   policy, 2) human capital, which due to its low level is an impediment to good policy,

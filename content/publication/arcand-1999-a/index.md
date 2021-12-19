@@ -10,7 +10,7 @@ authors:
 - Jonathan Conning
 - François Ethier
 tags:
-- Household models; Selective separability; Class structure
+- Development micro
 categories: []
 date: '1999-01-01'
 lastmod: 2021-12-19T00:38:54+01:00
@@ -57,7 +57,7 @@ dataset collected in the Tunisian village of El Oulja, what might be termed "all
   work of DeJanvry, Sadoulet and Benjamin (1996) on Mexican ejidatarios to plot- as
   opposed to household-level estimation. Moreover, our paper provides an elaboration
   on and an empirical bridge to theoretical models, such as Roemer (1982), Eswaran
-  and Kotwal (1986), and Carter and Zimmerman (1995) which ex'
+  and Kotwal (1986), and Carter and Zimmerman (1995) which examine how credit constraints and imperfections on factor markets shape the class structure of the agrarian economy. The implications and scope for government intervention in the context of market imperfections are also examined.'
 publication: ''
 links:
 - name: URL

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jean‐Louis Arcand
-tags: Development micro
+tags: Theory
 categories: []
 date: '2006-01-01'
 lastmod: 2021-12-19T00:38:49+01:00
