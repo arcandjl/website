@@ -1,13 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Arcand 2014 B"
+title: "Comments on 'Financial Development and Economic Growth: Known Knowns, Known Unknowns, and Unknown Unknowns'"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors:
+- Jean-Louis Arcand
+tags: Development macro
 categories: []
-date: 2021-12-19T00:38:33+01:00
+date: 2014-06-06
 lastmod: 2021-12-19T00:38:33+01:00
 featured: false
 draft: false
@@ -26,4 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2021-12-18T23:38:38.981441Z'
+publication_types:
+- '2'
+abstract: ''
+publication: "*Revue d’économie du développement*"
+links:
+- name: URL
+  url: https://ideas.repec.org/a/cai/edddbu/edd_hs02_0073.html
 ---

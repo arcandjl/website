@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jean-Louis Arcand
-tags: []
+tags: Development macro
 categories: []
 date: '2014-01-01'
 lastmod: 2021-12-19T00:38:32+01:00

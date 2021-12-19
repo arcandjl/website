@@ -1,13 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Arcand 2013 B"
+title: "Language in Economic Development: Is English Special and is Linguistic Fragmentation Bad?"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors:
+- Jean-Louis Arcand
+- François Grin
+tags: Development macro
 categories: []
-date: 2021-12-19T00:38:58+01:00
+date: 2013-01-05
+doi: 10.21832/9781847699473-015
 lastmod: 2021-12-19T00:38:58+01:00
 featured: false
 draft: false
@@ -26,4 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2021-12-18T23:38:38.981441Z'
+publication_types:
+- '6'
+abstract: ''
+publication: "*English and Development: Policy, Pedagogy and Globalization*"
+links:
+- name: URL
+  url: https://doi.org/10.21832/9781847699473-015
 ---

@@ -5,9 +5,8 @@ title: Pessimism, Optimism and Credit Rationing
 subtitle: ''
 summary: ''
 authors:
-- Jean-Louis Arcand
-tags:
-- 'Keywords: rank-dependent expected utility; Credit rationing'
+- Jean‐Louis Arcand
+tags: Development micro
 categories: []
 date: '2006-01-01'
 lastmod: 2021-12-19T00:38:49+01:00
@@ -30,7 +29,7 @@ image:
 projects: []
 publishDate: '2021-12-18T23:38:49.299486Z'
 publication_types:
-- '4'
+- '3'
 abstract: In their celebrated contribution on credit rationing, Stiglitz and Weiss
   (1981) showed that the expected return to the borrower on a loan is increasing in
   the risk of the project it funds. In this paper, I show that their results do not

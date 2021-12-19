@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Does ethnic diversity decrease economic interactions? Evidence from exchange networks in rural Gambia"
+title: "Does Ethnic Diversity Decrease Economic Interactions? Evidence from Exchange Networks in Rural Gambia"
 subtitle: ""
 summary: ""
 authors:

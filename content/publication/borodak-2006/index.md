@@ -9,8 +9,7 @@ authors:
 - Daniela Borodak
 - Jean-Louis Arcand
 tags:
-- Transaction costs; Technical efficiency; Household model; Transitional economy;
-  Agrarian reform
+- Development micro
 categories: []
 date: '2006-01-01'
 lastmod: 2021-12-19T00:38:50+01:00
@@ -33,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-12-18T23:38:49.867206Z'
 publication_types:
-- '4'
+- '3'
 abstract: This paper considers whether it is differences in technical efficiency or
   differences in factor endowments that explain productivity differentials in Moldovan
   agriculture. We compute non-parametric measures of technical efficiency for a sample

@@ -8,8 +8,7 @@ summary: ''
 authors:
 - Jean-Louis Arcand
 - Linguère Mously Mbaye
-tags:
-- illegal migration; discount rate; risk aversion; Africa; Senegal
+tags: Development micro
 categories: []
 date: '2013-07-01'
 lastmod: 2021-12-19T00:38:43+01:00
@@ -32,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-12-18T23:38:43.410454Z'
 publication_types:
-- '4'
+- '3'
 abstract: This paper aims to provide the first evidence concerning the relationship
   between time and risk preferences and illegal migration in an African context. Based
   upon our theoretical model and using a unique data set on potential migrants collected
@@ -40,7 +39,7 @@ abstract: This paper aims to provide the first evidence concerning the relations
   individual's intertemporal discount rate and coefficient of absolute risk aversion.
   Remarkably, our results show that these individual preferences matter in the willingness
   to migrate illegally and to pay a smuggler.
-publication: ''
+publication: "*IZA Discussion Papers*"
 links:
 - name: URL
   url: https://ideas.repec.org/p/iza/izadps/dp7517.html
