@@ -11,7 +11,6 @@ authors:
 tags: Development macro
 categories: []
 date: 2015-06-02
-doi: 10.1007/s10887-015-9115-2
 lastmod: 2021-12-19T00:38:31+01:00
 featured: false
 draft: false
