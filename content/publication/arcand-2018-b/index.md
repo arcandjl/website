@@ -7,7 +7,6 @@ summary: ""
 authors:
 - admin
 - Xinchen Dai
-- Huayu Xu
 - Minhui Zhou
 tags: 
 - China
