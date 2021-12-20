@@ -10,25 +10,36 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: Stuff I'm fairly good at
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Not too bad...
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: Pretty good, but not a *real* econometrician...
+- description: Pretty good, but not a *real* econometrician
   icon: chart-line
   icon_pack: fas
   name: Applied econometrics
-- description: Good at improvising a quick model...
-  icon: camera-retro
+- description: Not too bad for a late-blooming geek
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 30 years of experience doing fieldwork and household surveys, often in rather difficult countries
+  icon: globe-africa
+  icon_pack: fas
+  name: Fieldwork
+- description: Quite good at writing applied models
+  icon: square-root-alt
   icon_pack: fas
   name: Applied theory
-
+- description: I **love** teaching
+  icon: user-graduate
+  icon_pack: fas
+  name: Teaching
+- description: I have brought 60 PhD dissertations to a successful conclusion
+  icon: graduation-cap
+  icon_pack: fas
+  name: Supervision of PhD students
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
