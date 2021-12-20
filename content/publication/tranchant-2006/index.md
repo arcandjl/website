@@ -6,7 +6,6 @@ subtitle: ""
 summary: ""
 authors: 
 - Jean Pierre Tranchant
-- Grégoire Rota-Graziosi
 - Léandre Bassole
 - admin
 tags: Development micro

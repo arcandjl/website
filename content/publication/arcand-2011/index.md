@@ -11,6 +11,7 @@ authors:
 tags: Trade
 categories: []
 date: 2011-10-01
+doi: 10.1017/CBO9781316018453.006
 lastmod: 2021-12-19T00:38:45+01:00
 featured: false
 draft: false
