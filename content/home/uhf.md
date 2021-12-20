@@ -12,19 +12,19 @@ design:
   flip_alt_rows: false
 ---
 ![uhf](uhf.png)
-
 ## FAQs
 {{< spoiler text="What is UHF?" >}}
-UHF is...
+UHF is a global platform responding to complex planetary health and societal challenges. We are a world-class team of development, economics, and health experts with extensive scientific, policy, strategy, technology and implementation expertise.
 {{< /spoiler >}}
 
 {{< spoiler text="What do we do?" >}}
-UHF does...
+UHF designs and implements strategic global health initiatives that promote sustainability and equity.
 {{< /spoiler >}}
 
 {{< spoiler text="What sort of projects do we work on?" >}}
-UHF works on all sort of project.
+The UHF team is at the forefront of global health strategy. Our previous work includes health taxes, gender and equity, NCD prevention, sustainability, and health economics.
 {{< /spoiler >}}
 
-[![uhf](uhf.png)](https://uhf.ch//)
+## Our website
+[uhf.ch](https://uhf.ch//)
 
