@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Not too bad...
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Pretty good, but not a *real* econometrician...
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Applied econometrics
+- description: Good at improvising a quick model...
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Applied theory
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
