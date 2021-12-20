@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Machine Learning
-    tag: Machine Learning
+  - name: Machine learning
+    tag: Machine learning
   - name: Health
     tag: Health
   - name: Development

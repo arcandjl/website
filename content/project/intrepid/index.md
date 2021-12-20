@@ -2,7 +2,7 @@
 title: intrepid
 summary: 'Automated interpretation of political and economic policy documents: Machine learning using semantic and syntactic information.'
 tags:
-- Health
+- Machine learning
 date: "2021-12-14"
 
 # Optional external URL for project (replaces project detail page).

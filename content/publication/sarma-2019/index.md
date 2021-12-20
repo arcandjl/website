@@ -12,6 +12,7 @@ authors:
 tags: Health
 categories: []
 date: 2019-10-14
+doi: 10.4269/ajtmh.19-0386
 lastmod: 2021-12-19T00:38:59+01:00
 featured: true
 draft: false

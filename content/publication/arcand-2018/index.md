@@ -10,6 +10,7 @@ authors:
 tags: Theory
 categories: []
 date: 2018-04-01
+doi: 10.1016/j.econlet.2018.01.029
 lastmod: 2021-12-19T00:38:30+01:00
 featured: true
 draft: false

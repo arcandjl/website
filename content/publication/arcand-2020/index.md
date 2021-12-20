@@ -12,6 +12,7 @@ authors:
 tags: Theory
 categories: []
 date: 2020-01-01
+doi: 10.1016/j.jmateco.2018.11.003
 lastmod: 2021-12-19T00:38:29+01:00
 featured: true
 draft: false
