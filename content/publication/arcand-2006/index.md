@@ -9,7 +9,7 @@ authors:
 - Béatrice d'Hombres
 tags: Development micro
 categories: []
-date: 2006-01-01
+date: 2006-09-01
 lastmod: 2021-12-19T00:38:49+01:00
 featured: false
 draft: false
