@@ -30,6 +30,3 @@ url_video: ""
 # slides: example
 ---
 
-{{% callout warning %}}
-Under construction
-{{% /callout %}}

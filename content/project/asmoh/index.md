@@ -1,5 +1,5 @@
 ---
-title: ashmo
+title: asmoh
 summary: Augmented Solow models for health.
 tags:
 - Health
