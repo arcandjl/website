@@ -10,6 +10,7 @@ authors:
 tags: Macro
 categories: []
 date: 1993-03-01
+doi: 10.1016/0164-0704(93)90008-A
 lastmod: 2021-12-19T00:38:41+01:00
 featured: false
 draft: false

@@ -11,6 +11,7 @@ authors:
 tags: Macro
 categories: []
 date: 1994-12-01
+doi: 10.25071/1874-6322.719
 lastmod: 2021-12-19T00:38:40+01:00
 featured: false
 draft: false
