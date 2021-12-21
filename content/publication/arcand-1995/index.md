@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-12-18T23:38:38.981441Z'
 publication_types:
 - '3'
-abstract: ''
+abstract: 'In this paper, we develop a two sector general equilibrium overlapping generations model to study migration and remittances between the countryside and the city, the links between migration and growth, as well as the conditions under which intersectoral migration begins and ends.  The migration process in our model is mediated through optimal intergenerational / intrafamily contracts, introduced by Lucas and Stark, which result in remittances.  The endogenous growth process in the urban sector is driven by a human capital accumulation process which differs from the standard treatment such as that in Lucas (1988): in our model, individuals (finitely lived) divide their first-period income between the accumulation of human capital and consumption.  Our model yields: (i) an endogenous migration threshold; (ii) wage gaps between the agricultural sector and the urban sector which do not depend upon the existence of unemployment as in the standard Harris-Todaro treatment.'
 publication: ""
 links:
 - name: URL

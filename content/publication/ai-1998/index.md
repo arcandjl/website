@@ -11,6 +11,7 @@ authors:
 tags: Development micro
 categories: []
 date: '1998-09-01'
+doi: 10.7202/602265ar
 lastmod: 2021-12-19T00:38:39+01:00
 featured: false
 draft: false

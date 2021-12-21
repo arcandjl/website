@@ -9,6 +9,7 @@ authors:
 tags: Development macro
 categories: []
 date: 1996-03-01
+doi: 10.1093/oxfordjournals.jae.a020901
 lastmod: 2021-12-19T00:38:40+01:00
 featured: false
 draft: false
