@@ -28,9 +28,9 @@ url_video: ""
 {{< /spoiler >}}
 
 {{< spoiler text="Swiss Government Excellence Scholarship for PhD students" >}}
-Every fall I receive literally dozens of emails from students all over the world asking me for a letter stating that I agree to be their supervisor for the PhD program and support their application for the Swiss Government Excellence Scholarship for PhD students
+Every fall I receive literally dozens of emails from students all over the world asking me for a letter stating that I agree to be their supervisor for the PhD program and support their application for the Swiss Government Excellence Scholarship for PhD students. **No professor at the Graduate Institute can furnish such a letter**.
 
-Our two PhD programs are North American in their form and involve a competitive application process that you can find out more about on the Graduate Institute <a href="https://www.graduateinstitute.ch/admissions" target="_blank">website</a>.  Professors do not "admit" students individually and there are no "PhD positions" *per se* !  Let me be even more explicit: no professor at the Graduate Institute can commit to supervising you before you have been admitted to one of our program.  Point final.
+Our two PhD programs are North American in their form and involve a competitive application process that you can find out more about on the Graduate Institute <a href="https://www.graduateinstitute.ch/admissions" target="_blank">website</a>.  Professors do not "admit" students individually and there are no "PhD positions" *per se* !  Let me be even more explicit: no professor at the Graduate Institute can commit to supervising you before you have been admitted to one of our programs.  *Point final*.
 
 {{< /spoiler >}}
 

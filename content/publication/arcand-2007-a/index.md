@@ -7,7 +7,9 @@ summary: ""
 authors:
 - admin
 - Jean-Pierre Tranchant
-tags: Development macro
+tags: 
+- Development macro
+- Conflict
 categories: []
 date: 2007-03-01
 lastmod: 2021-12-19T00:38:48+01:00

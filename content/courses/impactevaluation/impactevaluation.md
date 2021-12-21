@@ -12,6 +12,9 @@ An impact evaluation course designed for Economics master's and PhD students.  A
 
 {{< icon name="clock" pack="fas" >}} 1h45 per week, for 14 weeks; 2 problem sets, take-home midterm, take-home final.
 
+## Learn
+
+
 ## Quiz
 
 {{< spoiler text="What are the five identification strategies in impact evaluation?" >}}
@@ -20,6 +23,8 @@ An impact evaluation course designed for Economics master's and PhD students.  A
 - **RDD**: Regression Discontinuity Design
 - **DID**: Difference-in-Differences or Panel Data
 - **OLS/PSM**: Least squares or matching (on observables)
-
 {{< /spoiler >}}
 
+{{% callout warning %}}
+Under construction
+{{% /callout %}}

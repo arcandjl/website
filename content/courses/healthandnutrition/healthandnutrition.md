@@ -15,19 +15,14 @@ If you have no background in economics, I will do my best to teach you a good sm
 
 ## Learn
 
-{{< youtube hSPmj7mK6ng >}}
 
 ## Quiz
 
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+{{< spoiler text="Is wealthier healthier?" >}}
+No necessarily
 {{< /spoiler >}}
 
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
-```python
-import plotly.express as px
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-```
-{{< /spoiler >}}
+{{% callout warning %}}
+Under construction
+{{% /callout %}}
+

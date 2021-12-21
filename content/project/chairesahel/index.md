@@ -4,6 +4,7 @@ summary: Economic policy for the G5 Sahel countries
 tags:
 - Development micro
 - Health
+- Conflict
 date: "2021-12-14"
 
 image:

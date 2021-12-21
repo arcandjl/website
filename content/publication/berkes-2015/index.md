@@ -32,7 +32,9 @@ projects: []
 publishDate: '2021-12-18T23:38:38.981441Z'
 publication_types:
 - '3'
-abstract: 'This paper examines whether there is a threshold above which financial depth no longer has a positive effect on economic growth. We use different empirical approaches to show that financial depth starts having a negative effect on output growth when credit to the private sector reaches 100% of GDP. Our results are consistent with the "vanishing effect" of financial depth and that they are not driven by endogeneity, output volatility, banking crises, low institutional quality, or by differences in bank regulation and supervision.'
+abstract: 'A recent policy brief from the Peterson Institute suggests that the \"Too Much Finance\" result may be an artifact of spurious attribution of causality. While more works needs do be done to understand the links between
+finance and growth and explore the drivers of possible non-monotonicities,
+this note shows that the too much finance result is robust.'
 publication: "*IHEID Working Papers*"
 links:
 - name: URL
