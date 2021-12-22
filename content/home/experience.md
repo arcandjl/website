@@ -22,29 +22,61 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Professor, Department of International Economics
+    company: Graduate Institute of International and Development Studies
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: iheid-logo
+    location: Geneva
+    date_start: '2020-02-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+       
+  - title: Chair, Department of International Economics
+    company: Graduate Institute of International and Development Studies
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: iheid-logo
+    location: Geneva
+    date_start: '2017-02-01'
+    date_end: '2020-01-31'
 
+  - title: Founding Director, Center for Finance and Development
+    company: Graduate Institute of International and Development Studies
+    company_url: ''
+    company_logo: iheid-logo
+    location: Geneva
+    date_start: '2012-09-01'
+    date_end: '2016-08-30'
+    
+  - title: Chair, Development Studies
+    company: Graduate Institute of International and Development Studies
+    company_url: ''
+    company_logo: iheid-logo
+    location: Geneva
+    date_start: '2009-09-01'
+    date_end: '2012-08-30'
+    
+  - title: Professor, Department of International Economics
+    company: Graduate Institute of International and Development Studies
+    company_url: ''
+    company_logo: iheid-logo
+    location: Geneva
+    date_start: '2008-09-01'
+    date_end: '2009-08-30'
+    
+  - title: Professeur des universités
+    company: CERDI-CNRS, Université d'Auvergne
+    company_url: ''
+    company_logo: 
+    location: Clermont Ferrand
+    date_start: '1999-09-01'
+    date_end: '2008-08-30'
+    
+  - title: Assistant and then Associate Professor
+    company: Université de Montréal and CRDE
+    company_url: ''
+    company_logo: 
+    location: Montréal
+    date_start: '1991-09-01'
+    date_end: '1999-08-30'
 design:
   columns: '2'
 ---
