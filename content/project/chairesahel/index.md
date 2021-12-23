@@ -2,7 +2,7 @@
 title: Chaire Sahel
 summary: Economic policy for the G5 Sahel countries
 tags:
-- Development micro
+- Development
 - Health
 - Conflict
 date: "2021-12-14"

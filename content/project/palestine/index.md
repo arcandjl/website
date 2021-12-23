@@ -3,6 +3,7 @@ title: Palestine
 summary: Use of survey and census data to study the development of the Occupied Territories.
 tags:
 - Development
+- Conflict
 date: "2021-12-14"
 
 image:
