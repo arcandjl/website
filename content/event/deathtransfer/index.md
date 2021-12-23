@@ -58,7 +58,7 @@ url_slides: "slides_deathtransfer.pdf"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- Covid-19
+- covid19
 ---
 
 {{% callout note %}}
