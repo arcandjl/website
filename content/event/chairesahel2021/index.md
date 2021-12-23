@@ -57,8 +57,8 @@ url_slides: "slides_ouagadougou_presentation.pdf"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-# - example
+projects:
+- chairesahel
 ---
 
 [**Conference site**](https://ferdi.fr/en/events/sahel-chair-seminar-evaluer-l-impact-des-politiques-de-developpement-dans-les-zones-vulnerables)

@@ -57,8 +57,8 @@ url_slides: "slides_deathtransfer.pdf"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-# - example
+projects:
+- Covid-19
 ---
 
 {{% callout note %}}
