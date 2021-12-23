@@ -1,7 +1,7 @@
 ---
-title: Sahel Chair Seminar: Évaluer l'impact des politiques de développement dans les zones vulnérables
+title: Projets de développement, conditions de vie et activité économique dans les pays du G5 Sahel
 
-event: Ouagadougou, Burkina Faso
+event: Ougadougou, Sahel Chair Seminar. Évaluer l'impact des politiques de développement dans les zones vulnérables
 # event_url: https://example.org
 
 # location: Wowchemy HQ
@@ -12,15 +12,15 @@ event: Ouagadougou, Burkina Faso
 #   postcode: '94305'
 #   country: United States
 
-summary: Presentation of the impact of World Bank development projects on various outcome measures for the G5 Sahel countries.
+summary: seminar on impact evaluation in the G5 Sahel countries.
 
-abstract: This seminar presented the results of an impact study of development projects in the area. The Sahel Chair aims, through its axis 3, to provide rapid but rigorous impact assessments of development policies in the G5 Sahel countries. This study used a methodology adapted to fragile and hard-to-reach areas subject to conflict.
+abstract: Mettre au point des méthodes d’évaluation rapide des projets et programmes adaptées aux zones fragiles. Surmonter les difficultés liées au suivi et à la collecte des données. Utiliser des données géo-localisées.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-11-18"
 # date_end: "2030-06-01T15:00:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-12-17T00:00:00Z"
