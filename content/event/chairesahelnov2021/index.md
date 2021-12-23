@@ -1,7 +1,7 @@
 ---
-title: La mise en oeuvre des agendas de développement à l'aune des enjeux actuels. L'évaluation d'impact au coeur de la décision
+title: Sahel Chair Seminar: Évaluer l'impact des politiques de développement dans les zones vulnérables
 
-event: Abidjan, Conférence régionale sur l'évaluation d'impact en Afrique francophone
+event: Ouagadougou, Burkina Faso
 # event_url: https://example.org
 
 # location: Wowchemy HQ
@@ -12,15 +12,15 @@ event: Abidjan, Conférence régionale sur l'évaluation d'impact en Afrique fra
 #   postcode: '94305'
 #   country: United States
 
-summary: Keynote address at the Francophone Africa impact evaluation conference in Abidjan.
+summary: Presentation of the impact of World Bank development projects on various outcome measures for the G5 Sahel countries.
 
-abstract: Il est très peu probable que les effets d'un programme ou d'un projet soit identiques pour tous. Des méthodes biens rôdées existent pour traiter de l'hétérogénéité inobservable. Du côté de l'estimation, pour le quasi-expérimental, l'estimation de l'effet marginal de traitement (MTE) par les variables instrumentales locales (LIV). Dans la collecte des données, pour les randomisations, le mécanisme Becker-Degroot-Marschak. L'intégration de l'évaluation dans la politique économique devrait être un processus d'apprentissage d'ordre bayésien.
+abstract: This seminar presented the results of an impact study of development projects in the area. The Sahel Chair aims, through its axis 3, to provide rapid but rigorous impact assessments of development policies in the G5 Sahel countries. This study used a methodology adapted to fragile and hard-to-reach areas subject to conflict.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-26T11:00:00Z"
+date: "2021-11-18"
 # date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-12-17T00:00:00Z"
@@ -61,7 +61,7 @@ url_slides: "slides_ouagadougou_presentation.pdf"
 # - example
 ---
 
-[**Conference site**](https://clearfa.org/conference-regionale-sur-levaluation-dimpact-en-afrique-francophone/?fbclid=IwAR0YhSK3oPvtQBMyagAINtav2HM_bBiiWiLpLs7bVFd-nb0ZVllKkCKNlmY)
+[**Conference site**](https://ferdi.fr/en/events/sahel-chair-seminar-evaluer-l-impact-des-politiques-de-developpement-dans-les-zones-vulnerables)
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
