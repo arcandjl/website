@@ -29,7 +29,7 @@ experience:
     location: Geneva
     date_start: '2020-02-01'
     date_end: ''
-       
+    
   - title: Chair, Department of International Economics
     company: Graduate Institute of International and Development Studies
     company_url: ''
@@ -53,6 +53,14 @@ experience:
     location: Geneva
     date_start: '2009-09-01'
     date_end: '2012-08-30'
+
+  - title: Senior Fellow
+    company: FERDI
+    company_url: ''
+    company_logo: ferdi-logo
+    location: Clermont Ferrand
+    date_start: '2011-09-01'
+    date_end: ''
     
   - title: Professor, Department of International Economics
     company: Graduate Institute of International and Development Studies
@@ -65,7 +73,7 @@ experience:
   - title: Professeur des universités
     company: CERDI-CNRS, Université d'Auvergne
     company_url: ''
-    company_logo: 
+    company_logo: cerdi-logo
     location: Clermont Ferrand
     date_start: '1999-09-01'
     date_end: '2008-08-30'
@@ -73,10 +81,35 @@ experience:
   - title: Assistant and then Associate Professor
     company: Université de Montréal and CRDE
     company_url: ''
-    company_logo: 
+    company_logo: udm-logo
     location: Montréal
     date_start: '1991-09-01'
     date_end: '1999-08-30'
+    
+  - title: PhD student
+    company: Massachusetts Institute of Technology
+    company_url: ''
+    company_logo: mit-logo
+    location: Cambridge, MA
+    date_start: '1986-09-01'
+    date_end: '1991-08-30'
+
+  - title: MPhil student
+    company: University of Cambridge
+    company_url: ''
+    company_logo: cambridge-logo
+    location: Cambridge, UK
+    date_start: '1985-09-01'
+    date_end: '1986-08-30'
+
+  - title: BA (honors) student
+    company: Swarthmore College
+    company_url: ''
+    company_logo: swarthmore-logo
+    location: Swarthmore, PA
+    date_start: '1982-09-01'
+    date_end: '1985-06-30'
+    
 design:
   columns: '2'
 ---
