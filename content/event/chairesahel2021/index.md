@@ -12,7 +12,7 @@ event: Ougadougou, Sahel Chair Seminar. Évaluer l'impact des politiques de dév
 #   postcode: '94305'
 #   country: United States
 
-summary: seminar on impact evaluation in the G5 Sahel countries.
+summary: Seminar on impact evaluation in the G5 Sahel countries.
 
 abstract: Mettre au point des méthodes d’évaluation rapide des projets et programmes adaptées aux zones fragiles. Surmonter les difficultés liées au suivi et à la collecte des données. Utiliser des données géo-localisées.
 
