@@ -2,7 +2,7 @@
 title: Projets de développement, conditions de vie et activité économique dans les pays du G5 Sahel
 
 event: Ougadougou, Sahel Chair Seminar. Évaluer l'impact des politiques de développement dans les zones vulnérables
-# event_url: https://example.org
+event_url: https://ferdi.fr/en/events/sahel-chair-seminar-evaluer-l-impact-des-politiques-de-developpement-dans-les-zones-vulnerables
 
 # location: Wowchemy HQ
 # address:
@@ -61,7 +61,7 @@ projects:
 - chairesahel
 ---
 
-[**Conference site**](https://ferdi.fr/en/events/sahel-chair-seminar-evaluer-l-impact-des-politiques-de-developpement-dans-les-zones-vulnerables)
+# [**Conference site**](https://ferdi.fr/en/events/sahel-chair-seminar-evaluer-l-impact-des-politiques-de-developpement-dans-les-zones-vulnerables)
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

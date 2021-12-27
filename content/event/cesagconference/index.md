@@ -2,7 +2,7 @@
 title: La mise en oeuvre des agendas de développement à l'aune des enjeux actuels. L'évaluation d'impact au coeur de la décision
 
 event: Abidjan, Conférence régionale sur l'évaluation d'impact en Afrique francophone
-# event_url: https://example.org
+event_url: https://clearfa.org/conference-regionale-sur-levaluation-dimpact-en-afrique-francophone/?fbclid=IwAR0YhSK3oPvtQBMyagAINtav2HM_bBiiWiLpLs7bVFd-nb0ZVllKkCKNlmY
 
 # location: Wowchemy HQ
 # address:
@@ -61,7 +61,7 @@ url_slides: "slides_ouagadougou_presentation.pdf"
 # - example
 ---
 
-[**Conference site**](https://clearfa.org/conference-regionale-sur-levaluation-dimpact-en-afrique-francophone/?fbclid=IwAR0YhSK3oPvtQBMyagAINtav2HM_bBiiWiLpLs7bVFd-nb0ZVllKkCKNlmY)
+# [**Conference site**](https://clearfa.org/conference-regionale-sur-levaluation-dimpact-en-afrique-francophone/?fbclid=IwAR0YhSK3oPvtQBMyagAINtav2HM_bBiiWiLpLs7bVFd-nb0ZVllKkCKNlmY)
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
