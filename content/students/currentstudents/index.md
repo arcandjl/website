@@ -1,6 +1,6 @@
 ---
 title: Current Students
-summary: My current PhD students.
+summary: My current 14 PhD students.
 tags:
 - Current Students
 date: "2021-12-14"
@@ -23,7 +23,16 @@ url_slides: ""
 url_video: ""
 ---
 
-__Balasubramanyam Pattath__: Three Essays in Development Economics."
+{{% callout warning %}}
+{{< icon name="terminal" pack="fas" >}}  If you are one of the people below and something is wrong with your entry (which is likely!), please drop me a line, especially if you have a personal website.  In the meantime, please accept my profuse apologies...but I'm getting on in years, so why are you surprised...
+
+{{< icon name="terminal" pack="fas" >}}  Moreover, I would love to start decorating each entry with a portrait: to do this, I need you to send me the picture you want me to include.
+{{% /callout %}}
+
+
+__Balasubramanyam Pattath__: "Three Essays in Development Economics."
+
+__Lehua Jin__: "Three Essays in Development Economics."
  
 __Rui Ma__: "Innovation in China."
 
@@ -41,7 +50,6 @@ __Donika Limani__: "Three Essays on Development Economics."
 
 __Maria Kamran__: "Essays on Fertility and Women's Welfare."
 
-
 __Rami Alazzeh__: "The Impact of Israeli Occupation on the Palestinian Economy, Prospects of Development and Aid Effectiveness Under Occupation." 
 
 __Enrico Nano__ (co-directed with M. Viarengo): "Essays in Development Economics."  
@@ -49,3 +57,5 @@ __Enrico Nano__ (co-directed with M. Viarengo): "Essays in Development Economics
 __Mhamed Ben Salah__: "Do Tunisian Schools Educate Children?"
 
 __Shijie Yang__: "Left Behind Children: the Future Rural and Urban Gap in China." 
+
+

@@ -23,7 +23,9 @@ url_video: ""
 ---
 
 {{% callout warning %}}
-Under construction
+{{< icon name="terminal" pack="fas" >}}  If you are one of the people below and something is wrong with your entry (which is likely!), please drop me a line, especially if you have a personal website.  In the meantime, please accept my profuse apologies...but I'm getting on in years, so why are you surprised...
+
+{{< icon name="terminal" pack="fas" >}}  Moreover, I would love to start decorating each entry with a portrait: to do this, I need you to send me the picture you want me to include.
 {{% /callout %}}
 
 # The Graduate Institute, Geneva
