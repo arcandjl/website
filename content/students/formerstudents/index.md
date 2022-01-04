@@ -105,11 +105,11 @@ __25. Dany Jaimovich__ (co-directed with R. Baldwin): "The Traditional and the G
 
 # CERDI-CNRS, Université d'Auvergne: official listing is available at [www.cerdi.org](http://cerdi.org/document/listAchieved)
 
-__24. Rania Ben Hamida__: "L'énergie entre les opportunités de développement et les risques de la dégradation de la qualité de l'environnement : Cas des pays émergents," December 2014, ATER, Université d'Auvergne, Clermont Ferrand.
+__24. Rania Ben Hamida__: "L'énergie entre les opportunités de développement et les risques de la dégradation de la qualité de l'environnement : Cas des pays émergents," December 2014, ATER, Université d'Auvergne, Clermont Ferrand.  [**linkedin**](https://www.linkedin.com/in/rania-ben-hamida-40957b60/?originalSubdomain=fr)
 
-__23. Frederic Aubery__: "Inégalités de genre, partage des risques, partage de l'information," November 2014, Researcher, IFPRI, Washington, DC.
+__23. Frederic Aubery__: "Inégalités de genre, partage des risques, partage de l'information," November 2014, Researcher, IFPRI, Washington, DC.  [**sites.google.com**](https://sites.google.com/site/fredaubery)
 
-__22. Susana Carpio__: "Capital humain et revenus. Une approche en variables instrumentales à partir de données en pseudo-panel," November 2014, Consultant, Tegucigalpa.
+__22. Susana Carpio__: "Capital humain et revenus. Une approche en variables instrumentales à partir de données en pseudo-panel," November 2014, Consultant, Tegucigalpa.  [**linkedin**](https://www.linkedin.com/in/susana-carpio-b9841a154/)
 
 __21. Adama Bah__: "Essays on Development Economics. Social Protection, Community-driven Development and Regional Integration," February 2014. The National Team for the Acceleration of Poverty Reduction (TNP2K), Vice-President Office, Jakarta.  [**ideas.repec.org**](https://ideas.repec.org/f/pba752.html)
 
@@ -119,36 +119,36 @@ __19. Marie-Charlotte Buisson__: "Trois essais sur la vulnérabilité des ménag
 Colombo.  [**ideas.repec.org**](https://ideas.repec.org/f/pbu252.html)
 
 __18. Damien Mededji__: "Analyse de la contribution des coopératives et mutuelles de crédit à l'amélioration du bien-être des ménages sociétaires au Bénin," February 2012. Consultant,
-Cotonou.
+Cotonou.  [**portal.pep-net.org**](https://portal.pep-net.org/public/researcher/5168)
 
 __17. Eric Djimeu Wouabe__: "Essays on Civil War, HIV/AIDS, and Human capital in Sub-Saharan African Countries," January 2011. Evaluation Officer/HIV/AIDS Specialist, International Initiative for Impact Evaluation, Washington, DC.
 
 __16. Jean-Pierre Tranchant__: "Conflits civils et développement," December 2010. Senior Lecturer, Institute of Development Studies, University of Sussex.  [**ideas.repec.org**](https://ideas.repec.org/e/ptr45.html)
 
-__15. Stephanie Cassilde__: "Choix rationnel, langage et représentations des inégalités et des discriminations. Une étude des déclarations de couleurs de peau dans le Brésil contemporain," December 2010. Chargée de recherches, Centre d'Etudes en Habitat Durable (CEHD), Charleroi.
+__15. Stephanie Cassilde__: "Choix rationnel, langage et représentations des inégalités et des discriminations. Une étude des déclarations de couleurs de peau dans le Brésil contemporain," December 2010. Chargée de recherches, Centre d'Etudes en Habitat Durable (CEHD), Charleroi.  [**scholar.google**](https://scholar.google.fr/citations?user=XPUSXQkAAAAJ&hl=fr)
 
 __14. Aude-Sophie Rodella__: "Three Essays in the Applied Microeconomics of Conflict. The Impact of Landmines and War Violence on Social Capital, Socio-Economic Reintegration, Child Health and Household Income in Angola," June 2010. Senior economist, The World Bank,
 Washington, DC.  [**ideas.repec.org**](https://ideas.repec.org/f/pro781.html)
 
 __13. Samba Mbaye__: "Nouvelles méthodes d'analyse du bien-être et moyens d'évaluation des programmes de lutte contre la pauvreté en milieu rural sénégalais," January 2010. Professeur agrégé, UFR de sciences économiques et de gestion, Université Gaston Berger, Saint Louis.  [**ideas.repec.org**](https://ideas.repec.org/e/pmb10.html)
 
-__12. Kelly Labart__: "Social inequalities in China : which reality ?"  September 2007. Research Director, Fondation pour les études et recherches en développement international (FERDI), Clermont Ferrand.
+__12. Kelly Labart__: "Social inequalities in China : which reality ?"  September 2007. Research Director, Fondation pour les études et recherches en développement international (FERDI), Clermont Ferrand.  [**linkedin**](https://www.linkedin.com/in/kelly-malige-labart-57240147/?originalSubdomain=fr)
 
 __11.  Léandre Bassole__: "Rural infrastructure, Community-Driven-Development and Child Anthropometrics," January 2007. Resident Representative, African Development Bank, Conakry, Guinée.  [**ideas.repec.org**](https://ideas.repec.org/f/pba307.html)
 
 __10. Oumar Diallo__ (co-directed with J.-L. Combes): "Trois essais sur la croissance, la
-pauvreté et les propriétés cycliques de la politique budgétaire," October 2006. Economist, UNDP, New York, NY.
+pauvreté et les propriétés cycliques de la politique budgétaire," October 2006. Economist, UNDP, New York, NY.  [**ssrn**](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=432019)
 
 __9. Tanguy Bernard__ (co-directed with E. Sadoulet): "Three essays on Peasant
 Organizations in West Africa," May 2005.  [**ideas.repec.org**](https://ideas.repec.org/f/pbe936.html)
 
 __8. Beatrice d'Hombres__: "Essais sur les disparités de revenu, l'éducation et la discrimination raciale : analyses macroéconomique et microéconomique," December 2004.  [**ideas.repec.org**](https://ideas.repec.org/e/pdh15.html) 
 
-__7. Aurelien Beko__: "Aléa moral, production agricole et profits: analyse théorique et quantification empirique," September 2004. Economist, World Bank, Bujumbura.
+__7. Aurelien Beko__: "Aléa moral, production agricole et profits: analyse théorique et quantification empirique," September 2004. Economist, World Bank, Bujumbura.  [**linkedin**](https://www.linkedin.com/in/aurelien-serge-beko-b3885279/?originalSubdomain=ga)
 
-__6. Issa Faye__: "La micro-finance et le développement en Afrique sub-saharienne: le cas du Sénégal," September 2004. IFC, Washington, DC.
+__6. Issa Faye__: "La micro-finance et le développement en Afrique sub-saharienne: le cas du Sénégal," September 2004. IFC, Washington, DC.  [**blogs.worldbank.org**](https://blogs.worldbank.org/team/issa-faye)
 
-__5. Daniela Borodak__: "La réforme du secteur agricole dans les pays en transition: résultats empiriques pour la Moldavie," September 2003. Lecturer, Ecole Supérieure de Commerce, Clermont Ferrand.
+__5. Daniela Borodak__: "La réforme du secteur agricole dans les pays en transition: résultats empiriques pour la Moldavie," September 2003. Lecturer, Ecole Supérieure de Commerce, Clermont Ferrand.  [**linkedin**](https://www.linkedin.com/in/daniela-borodak-312026b1/?originalSubdomain=fr)
 
 __4. Mbolatiana Rambonilaza__: "Contrat et technologie, le lien manquant," January 2001.  [**ideas.repec.org**](https://ideas.repec.org/f/pra580.html)
 
@@ -159,4 +159,4 @@ __3. Julie Rabemananjara__: "Emerging financial markets and growth," October 199
 
 __2. Christian Tritten__: "Bargaining and sharecropping in the presence of missing markets: theory and empirical implications," June 1998. Researcher, FUNDP, Université de Namur.
 
-__1. Ghazi Boulila__: "Essays on the theory of growth: trading blocks, migration and contractual relations," June 1994. Professor, ESSEC, Tunis.
+__1. Ghazi Boulila__: "Essays on the theory of growth: trading blocks, migration and contractual relations," June 1994. Professor, ESSEC, Tunis.  [**www.essect.rnu.tn**](http://www.essect.rnu.tn/fra/profil/ghazi_boulila)
