@@ -30,33 +30,33 @@ url_video: ""
 
 # The Graduate Institute, Geneva
 
-__60. Nicholas Brown Tyack__ (co-directed with T. Swanson): "Genetic Resources and Agricultural Productivity in the Developing World," September 2021.
+__60. Nicholas Brown Tyack__ (co-directed with T. Swanson): "Genetic Resources and Agricultural Productivity in the Developing World," September 2021.  [**webpage**](https://agbio.usask.ca/faculty-and-staff/people-pages/nicholas-tyack.php#research_areas)
 
-__59. Seoni Han__: "Three Essay in Development Economics," June 2021.
+__59. Seoni Han__: "Three Essay in Development Economics," June 2021.  [**linkedin**](https://www.linkedin.com/in/seonihan/?originalSubdomain=ch)
 
-__58. Yanming Kan__: "Economics of Social Ties, Migration and Development," March 2021.
+__58. Yanming Kan__: "Economics of Social Ties, Migration and Development," March 2021.  [yanmingk.wordpress.com](https://yanmingk.wordpress.com/)
 
-__57. Shiqi Guo__: "Three Essays in Development Microeconomics," February 2021.  [**sites.google.com**](https://sites.google.com/site/stevenshiqiguo/shiqi-guo)
+__57. Shiqi Guo__: "Three Essays in Development Microeconomics," February 2021.  [**www.acem.sjtu.edu.cn**](https://www.acem.sjtu.edu.cn/en/faculty/guoshiqi.html)
 
-__56. Jeffrey Dickinson__ (co-directed with Nicolas Berman): "Shining Light on Growth Statistics: For What is Nighttime Light Really a Proxy?" November 2020.
+__56. Jeffrey Dickinson__ (co-directed with Nicolas Berman): "Shining Light on Growth Statistics: For What is Nighttime Light Really a Proxy?" November 2020.  [**ideas.repec.org**](https://ideas.repec.org/f/pdi393.html)
 
-__55. Rong Dai__: "Determinants of the Size of Countries: An Empirical Study with Chinese Historical Data," December 2019.  
+__55. Rong Dai__: "Determinants of the Size of Countries: An Empirical Study with Chinese Historical Data," December 2019.  [**linkedin**](https://www.linkedin.com/in/rong-dai-%E6%88%B4%E6%88%8E-373a86a6/?originalSubdomain=cn)  
 
-__54. Nayantara Sarma__: "Migration: An Application of Queuing Theory," October 2019. 
+__54. Nayantara Sarma__: "Migration: An Application of Queuing Theory," October 2019.  [**www.nayantarasarma.com**](https://www.nayantarasarma.com/) 
 
-__53. Ellen Alexandra Holtmaat__ (co-directed with D. Sylvan, IR/PS): "Trade, Development and Transnational Private Standards," October 2019. 
+__53. Ellen Alexandra Holtmaat__ (co-directed with D. Sylvan, IR/PS): "Trade, Development and Transnational Private Standards," October 2019.  [**ellenholtmaat.wixsite.com**](https://ellenholtmaat.wixsite.com/website)
 
-__52. Daniele Rinaldo__: "Essays in Non-Gaussian Economics," December 2018. 
+__52. Daniele Rinaldo__: "Essays in Non-Gaussian Economics," December 2018.  [**danielerinaldo.com**](https://danielerinaldo.com/) 
 
-__51. Xinchen Dai__: "Development as Equality of Opportunity: Measuring Inequality of Opportunity in China," December 2018.
+__51. Xinchen Dai__: "Development as Equality of Opportunity: Measuring Inequality of Opportunity in China," December 2018.  [**facebook**](https://www.facebook.com/xinchen.dai.3)
 
 __50. Julia Barbara Seiermann__: "Essays in Development Economics and Anthropology," September 2018.  [**ideas.repec.org**](https://ideas.repec.org/f/pse599.html)
 
-__49. Andrew Silva__: "Three Essays in Economic Inequality," March 2018. 
+__49. Andrew Silva__: "Three Essays in Economic Inequality," March 2018.  [**andysilva.com**](https://andysilva.com/)
 
 __48. Nestor Morgandi__: "Essays on Labor Markets in Developing Countries," February 2018. 
 
-__47. Dmitriy Skugarevskiy__: "Essays in Law and Economics of Enforcement," November 2017.
+__47. Dmitriy Skugarevskiy__: "Essays in Law and Economics of Enforcement," November 2017.  [**scholar.google.com**](https://scholar.google.com/citations?user=nH6yOREAAAAJ&hl=en)
 
 __46. Matthew Hector Stephenson__ (co-directed with T. Biersteker, IR/PS): "Foreign Direct Investment: Cause or Consequence of Reform? An Examination of China and India's Experiences," November 2017.
 
@@ -68,11 +68,11 @@ __43. Humberto Laudares__: "Essays on Development Economics in Brazil," October 
 
 __42. Bastiaan Quast__: "Four Reproducible Contributions in Development Economics," October 2016.  [**ideas.repec.org**](https://ideas.repec.org/e/pqu133.html)
 
-__41. Sofia Trommlerova__: "Child Health and Gender-Related Challenges in the Developing World. Three Essays in Development Economics," October 2016, Postdoctoral researcher, Institute for Social Studies, Erasmus University.
+__41. Sofia Trommlerova__: "Child Health and Gender-Related Challenges in the Developing World. Three Essays in Development Economics," October 2016.  [**sites.google.com**](https://sites.google.com/site/sofiatrommlerova)
 
-__40. Tu Chi Nguyen__ (co-directed with C. Dupont): "Three Essays on Household Behaviors and Welfare in Development Context," October 2016, Young Professional, World Bank, Washington, DC.
+__40. Tu Chi Nguyen__ (co-directed with C. Dupont): "Three Essays on Household Behaviors and Welfare in Development Context," October 2016, World Bank, Washington, DC.  [**linkedin**](https://www.linkedin.com/in/tu-chi-nguyen-7403155/)
 
-__39. Gabriel Geisler Mesevage__ (co-directed with M. Flandreau): "Information Bubbles: The Market for Financial Information and the Railway Mania of 1845," September 2016.
+__39. Gabriel Geisler Mesevage__ (co-directed with M. Flandreau): "Information Bubbles: The Market for Financial Information and the Railway Mania of 1845," September 2016.  [**website**](https://www.kcl.ac.uk/people/gabriel-geisler-mesevage)
 
 __38. Arun Jacob__: "Traditional Institutions Meet Modern Day Development Outcomes: Three Essays in Development Economics," June 2016, Young Professional, United Nations Development Program, Geneva.  [**ideas.repec.org**](https://ideas.repec.org/f/pja469.html)
 
@@ -80,11 +80,11 @@ __37. Rohan Gudibande__: "Essays in Development Economics - The Political Econom
 
 __36. Catalina Martinez Gutierrez__: "Essays on the Role of Finance and the Private Sector in Development," October 2015, Investment Management Team, Zurich Insurance Group, Zurich.  [**ideas.repec.org**](https://ideas.repec.org/f/pma1539.html)
 
-__35. Selahattin Selsah Pasali__: "Intra-Household Resource Allocation a la Turca: an Attempt to Identify the Nature and Determinants of Gender Bias in Turkey, 2002-2010," September 2015, Program Officer, UNECA, Addis Abeba.
+__35. Selahattin Selsah Pasali__: "Intra-Household Resource Allocation a la Turca: an Attempt to Identify the Nature and Determinants of Gender Bias in Turkey, 2002-2010," September 2015, Program Officer, UNECA, Addis Abeba.  [**profile**](https://unece.org/mr-selahattin-selsah-pasali#)
 
 __34. Matteo Morgandi__: "Societal Values and Individual Choice. Essays in Welfare and Labor Economics of Arab Countries," February 2015, Young Professional, World Bank, Washington, DC.  [**ideas.repec.org**](https://ideas.repec.org/f/pmo826.html)
 
-__33. Malek Garbouj__: "Three Essays in Development Economics," October 2014, Postdoctoral Researcher and Consultant, Geneva.
+__33. Malek Garbouj__: "Three Essays in Development Economics," October 2014, Postdoctoral Researcher and Consultant, Geneva.  [**linkedin**](https://www.linkedin.com/in/malek-garbouj-a8077a4a/?originalSubdomain=ch)
 
 __32. Zacharias Ziegelhoefer__: "Use What You've Got. Three Essays in Development Economics Using Real World Data," October 2014, Infrastructure Economist, Asian Infrastructure Investment Bank (AIIB), Beijing.
 

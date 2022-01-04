@@ -36,26 +36,26 @@ __Lehua Jin__: "Three Essays in Development Economics."
  
 __Rui Ma__: "Innovation in China."
 
-__Zhubin Chen__: "Health Expenditure Stagnation and Social Transfer Constraint." 
+__Zhubin Chen__: "Health Expenditure Stagnation and Social Transfer Constraint."  [**linkedin**](https://www.linkedin.com/in/zhubin-chen/?originalSubdomain=ch)
  
 __Pinyi Chen__: "Product Differentiation of Chinese Tobacco Industry from a Political Economy Perspective."
 
-__Carlos Galian Barrueco__: "Essays on Social Protection and Informality."
+__Carlos Galian Barrueco__: "Essays on Social Protection and Informality."  [**linkedin**](https://www.linkedin.com/in/carlos-galian/?originalSubdomain=ch)
 
-__Hamidreza Bakhtiarizadeh__: "Cash Transfer, Consumption and Saving."
+__Hamidreza Bakhtiarizadeh__: "Cash Transfer, Consumption and Saving."  [**linkedin**](https://www.linkedin.com/in/hamidreza-bakhtiarizadeh/?originalSubdomain=ch)
 
-__Dante Gerardo Sanchez Torres__: "Impact Evaluation of the 2013 Educational Reform in Mexico."
+__Dante Gerardo Sanchez Torres__: "Impact Evaluation of the 2013 Educational Reform in Mexico."  [**https://dante042.github.io/**](https://dante042.github.io/)
 
-__Donika Limani__: "Three Essays on Development Economics." 
+__Donika Limani__: "Three Essays on Development Economics."  [**https://www.data-buds.com/**](https://www.data-buds.com/)
 
 __Maria Kamran__: "Essays on Fertility and Women's Welfare."
 
 __Rami Alazzeh__: "The Impact of Israeli Occupation on the Palestinian Economy, Prospects of Development and Aid Effectiveness Under Occupation." 
 
-__Enrico Nano__ (co-directed with M. Viarengo): "Essays in Development Economics."  
+__Enrico Nano__ (co-directed with M. Viarengo): "Essays in Development Economics."  [**ideas.repec.org**](https://ideas.repec.org/f/pna650.html) 
 
-__Mhamed Ben Salah__: "Do Tunisian Schools Educate Children?"
+__Mhamed Ben Salah__: "Do Tunisian Schools Educate Children?"  [**twitter**](https://twitter.com/mhamedbensalah)
 
-__Shijie Yang__: "Left Behind Children: the Future Rural and Urban Gap in China." 
+__Shijie Yang__: "Left Behind Children: the Future Rural and Urban Gap in China."  [**linkedin**](https://www.linkedin.com/in/shijie-yang-525b3348/)
 
 
