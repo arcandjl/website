@@ -34,7 +34,7 @@ __60. Nicholas Brown Tyack__ (co-directed with T. Swanson): "Genetic Resources a
 
 __59. Seoni Han__: "Three Essay in Development Economics," June 2021.  [**linkedin**](https://www.linkedin.com/in/seonihan/?originalSubdomain=ch)
 
-__58. Yanming Kan__: "Economics of Social Ties, Migration and Development," March 2021.  [yanmingk.wordpress.com](https://yanmingk.wordpress.com/)
+__58. Yanming Kan__: "Economics of Social Ties, Migration and Development," March 2021.  [**yanmingk.wordpress.com**](https://yanmingk.wordpress.com/)
 
 __57. Shiqi Guo__: "Three Essays in Development Microeconomics," February 2021.  [**www.acem.sjtu.edu.cn**](https://www.acem.sjtu.edu.cn/en/faculty/guoshiqi.html)
 
@@ -103,7 +103,7 @@ __26. Natascha Wagner__: "Three Essays on the Fetters to Development," September
 __25. Dany Jaimovich__ (co-directed with R. Baldwin): "The Traditional and the Global Village: Essays on Networks in Economic Trade andDevelopment," August 2011. Postdoctoral researcher,  Department of Applied Econometrics and International Political Economy, Faculty of Economics and Business Administration, Goethe Universitat, Frankfurt.  [**ideas.repec.org**](https://ideas.repec.org/e/pja101.html)
 
 
-# CERDI-CNRS, Université d'Auvergne: official listing is available at [www.cerdi.org](http://cerdi.org/document/listAchieved)
+# CERDI-CNRS, Université d'Auvergne: official listing is available at [www.cerdi.org](https://cerdi.uca.fr/version-francaise/formation/theses-soutenues#/admin)
 
 __24. Rania Ben Hamida__: "L'énergie entre les opportunités de développement et les risques de la dégradation de la qualité de l'environnement : Cas des pays émergents," December 2014, ATER, Université d'Auvergne, Clermont Ferrand.  [**linkedin**](https://www.linkedin.com/in/rania-ben-hamida-40957b60/?originalSubdomain=fr)
 
