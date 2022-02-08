@@ -24,7 +24,6 @@ interests:
 - Impact evaluation and microeconometrics
 - Nutrition and health
 - Econophysics
-- Economic growth
 - Political economy of China
 
 # Education to show in About widget
